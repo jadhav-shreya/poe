@@ -1,1 +1,5 @@
-# poe
+Bitbucket is a web-based platform for hosting and managing Git or Mercurial code repositories. It provides tools for collaboration and version control, and is commonly used by software development teams to store, manage, and track changes to their codebases. Bitbucket offers both a **cloud service** (Bitbucket Cloud) and a **self-hosted solution** (Bitbucket Server, formerly known as Stash).
+
+A pull request (PR) in Bitbucket is a way of submitting code changes for review and discussion before they are merged into the main branch (often `master` or `main`) of a repository. It is a feature that allows a developer to notify team members that they have completed a certain set of changes and would like others to review and approve those changes before integrating them into the main codebase.
+
+In summary, Bitbucket pull requests are a crucial tool for collaboration in version-controlled software development. They allow developers to propose changes, get feedback, and ensure that the codebase remains stable and high quality before merging changes into the main branch.
